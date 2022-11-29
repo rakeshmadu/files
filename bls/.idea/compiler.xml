@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="emplyoeepayrolljdbcapp (1)" />
+        <module name="emplyoeepayrolljdbcapp" />
+        <module name="EmployeePayrollJDBC" />
+        <module name="Jdbcmysql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EmployeePayrollJDBC" target="18" />
+      <module name="emplyoeepayrolljdbcapp" target="1.8" />
+      <module name="emplyoeepayrolljdbcapp (1)" target="1.8" />
+      <module name="Jdbcmysql" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

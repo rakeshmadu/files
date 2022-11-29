@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sts.ioc.Airtel&apos; to &apos;Sim&apos;&#x0A;- Original project: &apos;springioc&apos;&#x0A;- Original element: &apos;com.sts.ioc.Airtel&apos;&#x0A;- Renamed element: &apos;com.sts.ioc.Sim&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Airtel&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.sts.ioc{Airtel.java[Airtel" matchStrategy="1" name="Sim" qualified="false" references="true" similarDeclarations="false" stamp="1666111835759" textual="false" version="1.0"/>
+</session>
